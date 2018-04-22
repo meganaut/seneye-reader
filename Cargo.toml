@@ -1,0 +1,6 @@
+[package]
+name = "seneye-reader"
+version = "0.1.0"
+authors = ["Emil Levy <emilisonline@gmail.com>"]
+
+[dependencies]
